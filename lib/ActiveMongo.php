@@ -831,7 +831,7 @@ abstract class ActiveMongo implements Iterator, Countable, ArrayAccess
     }
     // }}}
 
-    // batchInsert
+    // batchInsert {{{
     /** 
      *  Perform a batchInsert of objects.
      *
